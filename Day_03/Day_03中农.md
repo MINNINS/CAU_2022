@@ -1,5 +1,7 @@
 ## Day_3笔记记录
 
+### [返回主页](https://github.com/MINNINS/CAU_2022/blob/main/README.md)
+
 * [任务点](#task)
 * [图形推理笔记](#note)
   
