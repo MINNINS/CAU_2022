@@ -1,5 +1,7 @@
 
 ## Day_2 记录
+
+<b>[返回主页](https://github.com/MINNINS/CAU_2022)</b><br>
 <span id="top">置顶<span>
 * [任务点](#task)
 * [笔记](#note)
