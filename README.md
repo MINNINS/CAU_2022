@@ -2,6 +2,7 @@
 中国农业大学二学位备考，从2022年6月14号开始复习，到17号，有3天复习时间，18号考试<br>
 
 * [第一天笔记记录（写了约44页）](https://github.com/MINNINS/CAU_2022/blob/main/Day_01/Day_1%E4%B8%AD%E5%86%9C.md) 
+* [第二天笔记记录（全是数量关系的）](https://github.com/MINNINS/CAU_2022/blob/main/Day_2/Day_2%E4%B8%AD%E5%86%9C.md)
 
 
 
