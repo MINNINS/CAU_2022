@@ -6,6 +6,7 @@
 * [第一天笔记记录（44页）](https://github.com/MINNINS/CAU_2022/blob/main/Day_01/Day_1%E4%B8%AD%E5%86%9C.md) 
 * [第二天笔记记录（全是数量关系的,55页）](https://github.com/MINNINS/CAU_2022/blob/main/Day_2/Day_2%E4%B8%AD%E5%86%9C.md)
 * [第三天笔记记录(全是图形推理的,58页)](https://github.com/MINNINS/CAU_2022/blob/main/Day_03/Day_03%E4%B8%AD%E5%86%9C.md)
+* [考前一天刷题记录](https://github.com/MINNINS/CAU_2022/blob/main/%E8%80%83%E5%89%8D%E4%B8%80%E5%A4%A9%E5%88%B7%E9%A2%98/%E5%88%B7%E9%A2%98%E8%AE%B0%E5%BD%95.md)
 * [估分](#gufen)
 
 
